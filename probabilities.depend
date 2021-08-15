@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1622099327 source:c:\users\francis chiu\documents\c\probabilities\main.c
+	<stdio.h>
+	<stdlib.h>
+
